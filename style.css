@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(18, 22, 18);
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+
+}
+h1{
+    font-style: italic;
+}
+
+body input, ul, button{
+    padding: 10px;
+    margin: 10px;
+    font-size: 1rem;
+}
+
+button{
+    background-color: lightgray;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+img{
+    width: 30px;
+    background-color: aliceblue;
+    margin-right: 10px;
+}
